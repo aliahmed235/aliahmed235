@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Backend-Focused Developer | PHP, Laravel & Java Spring | Always Learning, Always Building</h3>
+<h3 align="center">Backend-Focused Developer |  Java SpringBoot | Always Learning, Always Building</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
