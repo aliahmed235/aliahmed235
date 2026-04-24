@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ali Ahmed
 
-## Backend Developer | Spring Boot Specialist | Java Enthusiast
+## Backend Developer | Spring Boot Specialist | Problem Solver
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aliahmed235&style=flat-square&color=0891b2)
 
@@ -13,11 +13,26 @@
 ## 🚀 About Me
 
 ```
-💻 Backend Developer crafting scalable Spring Boot applications
-🌱 Mastering Spring Boot & microservices architecture
-🎯 Passionate about clean code and system design
-📚 Competitive programmer (LeetCode)
+💻 Backend Developer building scalable Spring Boot applications
+🧠 Problem Solver passionate about algorithms & system design
+🌱 Mastering microservices, databases & distributed systems
+🎯 Clean code enthusiast | LeetCode competitor
+📚 Always learning, always coding
 ```
+
+---
+
+## 💡 Problem Solving & Algorithms
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aliahmed235)
+
+**Competitive Programming | Data Structures | Algorithm Design**
+
+*Solving complex problems daily • Building strong fundamentals*
+
+</div>
 
 ---
 
@@ -25,9 +40,10 @@
 
 <div align="center">
 
-### Primary Stack
+### Backend & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Additional Skills
@@ -56,10 +72,11 @@
 
 ## 🎯 Current Focus
 
-- 🔥 Building scalable REST APIs with Spring Boot
-- 🏗️ Microservices & distributed systems
-- 📖 System design & architecture patterns
-- 🚀 Contributing to open source
+- 🔥 **Spring Boot** - Building scalable REST APIs & microservices
+- 🗄️ **Databases** - PostgreSQL optimization & MySQL expertise
+- 🧠 **Problem Solving** - LeetCode & algorithmic challenges
+- 📖 **System Design** - Architecture & distributed systems
+- 🚀 **Open Source** - Contributing & collaborating
 
 ---
 
@@ -73,6 +90,4 @@
 
 ---
 
-### ⭐ If you like my work, consider giving it a star!
-
-</div>
+### ⭐ If you like
