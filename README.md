@@ -4,7 +4,6 @@
 
 ## Backend Developer | Spring Boot Specialist | Problem Solver
 
-![Profile Views](https://komarev.com/ghpvc/?username=aliahmed235&style=flat-square&color=0891b2)
 
 </div>
 
